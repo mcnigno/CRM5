@@ -1,5 +1,6 @@
 #from openpyxl import load_workbook
 import pymysql.cursors
+import pymysql.connections
 '''
 'db_user_name' => 'suite_user',
 'db_password' => 'lollipop300777',
